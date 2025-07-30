@@ -5,7 +5,7 @@ import schedule
 from datetime import datetime
 
 # Discord webhook URL
-WEBHOOK_URL = "https://discord.com/api/webhooks/1400091789855297657/ihY68RzjaTvNzAfMtNQsJRe4jOY4tWVzrP5iW_exYXPM-FLD-hSiVhxom7SXi26G4pVl"
+WEBHOOK_URL = "apaya"
 
 def send_water_reminder():
     """Kirim notifikasi water reminder ke Discord"""
